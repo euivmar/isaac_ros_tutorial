@@ -39,3 +39,9 @@ You will be able to see the an output like
 | `rbonghi/isaac-ros-tutorial:argus-camera`     | R32.6.1     |
 | `rbonghi/isaac-ros-tutorial:realsense-camera` | R32.6.1     |
 | `rbonghi/isaac-ros-tutorial:zed-camera`       | R32.6.1     |
+
+
+# NOTAS:
+https://www.youtube.com/watch?v=ULYe70uvK_c <- Jetson nano Xubuntu 20.04 + ROS2 Foxy
+https://www.youtube.com/watch?v=fqMOX6JJhGo <- Tutorial Docker
+
